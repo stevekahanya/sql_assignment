@@ -1,3 +1,4 @@
+-- database: :memory:
 -- Create the students table
 CREATE TABLE students (
     id INTEGER PRIMARY KEY,

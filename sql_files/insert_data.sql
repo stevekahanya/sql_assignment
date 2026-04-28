@@ -1,3 +1,4 @@
+-- database: :memory:
 -- Insert 10 student records
 INSERT INTO students (id, full_name, email, age, course, created_at) VALUES 
 (1, 'John Mwangi', 'john.m@example.com', 22, 'Web Development', '2026-04-28'),

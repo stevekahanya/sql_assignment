@@ -1,3 +1,4 @@
+-- database: :memory:
 -- 1. Display all students
 SELECT * FROM students;
 
